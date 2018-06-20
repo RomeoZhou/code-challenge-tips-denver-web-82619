@@ -6,11 +6,11 @@ First, we want to assess your understanding of certain topics. By seeing what yo
 
 Secondly, we give code challenges to help our students to prepare for interviews, which can include timed challenges, depending on the employer. Getting practice coding under pressure helps you prepare for similar situations post graduation. 
 
-  # Before the Challenge Starts
+# Before the Challenge Starts
   - Your instructors will let you know the general topics to study for the code challenge, but they won't reveal the premise of the challenge and will not answer questions about the specifics of what the code challenge will cover. It's up to you to be familiar with the curriculum covered in the module, whether it will be in the code challenge or not. Look over past labs and lecture notes and study the areas that are most challenging for you.   
   - On the day of the code challenge, make sure you have everything you need to do your best. You may want to bring headphones, water, a charger, and a piece of paper and pen in case you want to take down notes or sketch relationship diagrams.
   
-  # During the Challenge
+# During the Challenge
   - Your instructors will tell you how much time you have to complete the challenge and will give any final instructions. Then, they'll send out a link to the challenge.
   - Fork the repository from the link and clone it. 
   - If something goes wrong in the proccess of cloning or installing, or if you run into computer hardware issues, flag down an instructor and let them know. An instructor may not be able to fix what's wrong immediately, but will help if technical issues prevent you from being able to take the challenge.
@@ -19,7 +19,7 @@ Secondly, we give code challenges to help our students to prepare for interviews
   - **Important: Confirm your assumptions early and often.** Remember to test your code often and debug the same ways that we practice in class. DO NOT throw lots of untested code on the page and hope that it works. Instructors are looking to see that you know how to program, not that you can make guesses or memorize patterns. Programming is about debugging and finding logical solutions.
   - When you finish, wait until the end of the challenge, and then add, commit, and push your code up to your fork. After pushing up your code, do not push up any changes until after the instructors are done grading.
   
-  # After the challenge
+# After the challenge
   - You did it! Take a walk or grab lunch. Instructors will need some time to grade the challenges, so you're free to take a break. 
   - You'll receieve feedback via email or in person after the challenge. Feel free to continue working on the challenge with the code you have locally on your computer. Do not push up the changes to your fork until after the instructors have finished grading. 
   
