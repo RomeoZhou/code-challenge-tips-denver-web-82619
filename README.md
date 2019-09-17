@@ -21,7 +21,7 @@ Secondly, we give code challenges to help our students to prepare for interviews
   
 # After the challenge
   - You did it! Take a walk or grab lunch. Instructors will need some time to grade the challenges, so you're free to take a break. 
-  - You'll receieve feedback via email or in person after the challenge. Feel free to continue working on the challenge with the code you have locally on your computer. Do not push up the changes to your fork until after the instructors have finished grading. 
+  - You'll receive feedback via email or in person after the challenge. Feel free to continue working on the challenge with the code you have locally on your computer. Do not push up the changes to your fork until after the instructors have finished grading. 
   
   
 
