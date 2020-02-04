@@ -9,6 +9,7 @@ Secondly, we give code challenges to help our students to prepare for interviews
 # Before the Challenge Starts
   - Your instructors will let you know the general topics to study for the code challenge, but they won't reveal the premise of the challenge and will not answer questions about the specifics of what the code challenge will cover. It's up to you to be familiar with the curriculum covered in the module, whether it will be in the code challenge or not. Look over past labs and lecture notes and study the areas that are most challenging for you.   
   - On the day of the code challenge, make sure you have everything you need to do your best. You may want to bring headphones, water, a charger, and a piece of paper and pen in case you want to take down notes or sketch relationship diagrams.
+  - Practicing your editor shortcuts may also help you save time, as well as installing some extensions to make your life easier. See [here for VS Code tricks](https://medium.com/better-programming/vs-code-tricks-for-beginners-9e88b30eeec9) and [here for Atom tricks](https://medium.com/better-programming/atom-tricks-for-beginners-270001bcf55c).
   
 # During the Challenge
   - Your instructors will tell you how much time you have to complete the challenge and will give any final instructions. Then, they'll send out a link to the challenge.
